@@ -98,3 +98,34 @@ main{
     margin-bottom: 100px;
 
 }
+/* target section */
+.target{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.target-title-description{
+    text-align: center;
+    margin: 0 95px 48px 95px;
+}
+.target-container{
+    display: flex;
+    gap: 24px;
+}
+.t-one{
+    background-color: rgba(255, 76, 30, 0.05);
+    border-style: none;
+    padding: 40px;
+    border-radius: 16px;
+}
+.t-two{
+    background-color: rgba(0, 76, 232, 0.05);
+    border-style: none;
+    padding: 40px;
+    border-radius: 16px;
+}
+.t-three{
+    background-color: rgba(255, 223, 0, 0.05);
+    border-style: none;
+    padding: 40px;
+    border-radius: 16px;
+}
