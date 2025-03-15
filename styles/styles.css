@@ -83,6 +83,11 @@ main{
 .development-reason-three{
     display: flex;
 }
+.btn-learn{
+    font-weight: 600;
+    font-size: 20px;
+    padding: 12px 20px;
+}
 /* inspiration section */
 .inspiration{
     text-align: center;
